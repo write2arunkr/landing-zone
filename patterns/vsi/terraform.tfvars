@@ -1,7 +1,7 @@
 TF_VERSION               = "1.0"
-prefix                   = "< add user data here >"
-region                   = "< add user data here >"
-ssh_public_key           = "< add user data here >"
+prefix                   = "slz-arun"
+region                   = "us-south"
+ssh_public_key           = "ssh-rsa AAAAB4NzaC1yc2EAAAADAQABAAABgQClCvte792bvfRCQ1AGEPy/gKoiIBEGuB7cvIXWnPKz6juDfiuGovU/7af72FWDEcWLzM8z2ljgPCCvY4FYPYc+geVJAahvSESO/9JkSzChbfilDvxxNr0kocYgm2YOLKZ+ac5APS9Yocq0hHHjzqikFXENIQGb13j+LUw+RWb6yZg31m+sIRwlw0nNUvlR4/Klm4McZqMQoDwEKEbT4692ttRfjFY+yxNqidkCtbTjo3IZ3+kbzihd4Z/4iw8uff3IVvuJLuNaGwTZNDmg9o41+LIsbuSlgS9swpEkLAQLpULHtOMjmH77xDdPA2YJ+bK0yIzS/VQiqmgx84Te86InO6AtExwcA48q5kjH6S70I1IIcOnvbVGnlpOCawptLosvkzwhDXfYJO6MNrz+djmI4M8kIWVHRZGLZWD/ClFCbkJ60szpZ2qmXe3sdGFVNSzKdJL2uhGn82aIqe9gmsuKCPaXHZopN2GbdKoLr4Dg39BWzaabqKgoirc86d+hDBU= arun@aruns-mbp.in.ibm.com"
 tags                     = []
 vpcs                     = ["management", "workload"]
 enable_transit_gateway   = true
