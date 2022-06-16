@@ -1,7 +1,7 @@
 TF_VERSION               = "1.0"
 prefix                   = "slz-arun"
 region                   = "us-south"
-ssh_public_key           = "ssh-rsa AAAAB4NzaC1yc2EAAAADAQABAAABgQClCvte792bvfRCQ1AGEPy/gKoiIBEGuB7cvIXWnPKz6juDfiuGovU/7af72FWDEcWLzM8z2ljgPCCvY4FYPYc+geVJAahvSESO/9JkSzChbfilDvxxNr0kocYgm2YOLKZ+ac5APS9Yocq0hHHjzqikFXENIQGb13j+LUw+RWb6yZg31m+sIRwlw0nNUvlR4/Klm4McZqMQoDwEKEbT4692ttRfjFY+yxNqidkCtbTjo3IZ3+kbzihd4Z/4iw8uff3IVvuJLuNaGwTZNDmg9o41+LIsbuSlgS9swpEkLAQLpULHtOMjmH77xDdPA2YJ+bK0yIzS/VQiqmgx84Te86InO6AtExwcA48q5kjH6S70I1IIcOnvbVGnlpOCawptLosvkzwhDXfYJO6MNrz+djmI4M8kIWVHRZGLZWD/ClFCbkJ60szpZ2qmXe3sdGFVNSzKdJL2uhGn82aIqe9gmsuKCPaXHZopN2GbdKoLr4Dg39BWzaabqKgoirc86d+hDBU= arun@aruns-mbp.in.ibm.com"
+ssh_public_key           = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCx+OX7RaDXKP0ZbqJ4GdNrZ6z2U8RDXb8sy+eG1K1lyERblS9RE1B1V75zCjukEoarwKOoasM5ApM9SJ5tzqr6R0aIjk4/BUESNmMCB99e3jttwNCFf50MpSA43inFU+iFBPAL3ZVE2HBrCVyz+OBW14Fjpo/J2yZr989XOy96VpfwGYXN/ZYgGO8y3+iikU5GvwnOvLguGjTaRi0GlHdatY9HWBEa+qYa2i6xfMlVQMxPH0qqcRLW1LMCmcvKtcsK4yB2DKspzuH3Bn6Wef3SJIzGbd3+ZFE+sHoAwfiYqlHji90dckf5UQesFtlDNeBSjrWqtSV23frbCLMzlN97 root@livecrosswalks"
 tags                     = []
 vpcs                     = ["management", "workload"]
 enable_transit_gateway   = true
